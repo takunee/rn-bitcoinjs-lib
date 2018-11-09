@@ -34,7 +34,7 @@
     "bip32": "^1.0.0",
     "bip66": "^1.1.0",
     "bitcoin-ops": "^1.4.0",
-    "bs58check": "^2.0.0",
+    "bs58check": "git+https://github.com/takunee/bs58check.git",
     "create-hash": "^1.1.0",
     "create-hmac": "^1.1.3",
     "merkle-lib": "^2.0.10",
