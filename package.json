@@ -42,7 +42,7 @@
     "react-native-randombytes": "^3.0.0",
     "safe-buffer": "^5.1.1",
     "tiny-secp256k1": "^1.0.0",
-    "typeforce": "^1.11.3",
+    "typeforce": "^1.16.0",
     "varuint-bitcoin": "^1.0.4",
     "wif": "^2.0.1"
   },
